@@ -83,6 +83,8 @@ docs/screenshots/
 
 ### 1) 桌面客户端（Tauri）
 
+**下载地址：** [release/tauri-pc_0.1.0_x64.dmg](release/tauri-pc_0.1.0_x64.dmg)
+
 ```bash
 cd tauri-pc
 npm install
