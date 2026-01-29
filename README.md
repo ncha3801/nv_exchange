@@ -88,10 +88,10 @@
 
 ### 1) 桌面客户端（Tauri）
 
-**下载地址：** [release/tauri-pc_0.1.0_x64.dmg](release/tauri-pc_0.1.0_x64.dmg)
+**下载地址：** [release/nv-pc_0.1.0_x64.dmg](release/nv-pc_0.1.0_x64.dmg)
 
 ```bash
-cd tauri-pc
+cd nv-pc
 npm install
 npm run dev
 ```
