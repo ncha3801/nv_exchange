@@ -66,8 +66,7 @@
 
 ### 功能演示视频
 
-<video src="docs/screenshots/2026-01-28_12-27-31.mp4" width="800" controls></video>
-
+![video](docs/screenshots/2026-01-28_12-27-31.mp4)
 ---
 
 ## 🛠️ 技术栈
