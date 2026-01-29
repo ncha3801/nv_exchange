@@ -40,28 +40,33 @@
 
 ## 🖼️ 界面预览
 
-> 可替换为项目截图，用于 GitHub 展示。
+项目截图位于 `docs/screenshots/` 目录，包含以下核心页面：
 
-```
-docs/screenshots/
-	- home.png
-	- trade.png
-	- assets.png
-	- c2c.png
-	- admin.png
-```
+| 页面 | 文件名 | 说明 |
+| --- | --- | --- |
+| 首页 | home.png | 平台概览与行情入口 |
+| 交易 | trade.png | 现货/合约交易界面 |
+| 资产 | assets.png | 资产管理与资金划转 |
+| C2C | c2c.png | 法币交易市场 |
+| 管理后台 | admin.png | 运营管理系统 |
 
 **图片预览：**
 
-- 首页：[docs/screenshots/home.png](docs/screenshots/home.png)
-- 交易：[docs/screenshots/trade.png](docs/screenshots/trade.png)
-- 资产：[docs/screenshots/assets.png](docs/screenshots/assets.png)
-- C2C：[docs/screenshots/c2c.png](docs/screenshots/c2c.png)
-
+### 首页
 ![首页](docs/screenshots/home.png)
+
+### 交易
 ![交易](docs/screenshots/trade.png)
+
+### 资产
 ![资产](docs/screenshots/assets.png)
+
+### C2C
 ![C2C](docs/screenshots/c2c.png)
+
+### 功能演示视频
+
+<video src="docs/screenshots/2026-01-28_12-27-31.mp4" width="800" controls></video>
 
 ---
 
